@@ -21,7 +21,7 @@ Fees are applied when placing a bid or ask.
 ## How It Works
 
 1. **Initiate Trade**  
-   Reach out through our Telegram channel and @rijk0x with trade details in the following format: selling/Buying: XXX | Type: Points/Tokens| Name: Lighter Points/Tokens | Size: Points Quantity and $ per point.
+   Reach out through our Telegram channel and @rijk0x with trade details in the following format: Selling/Buying: XXX | Type: Points/Tokens| Name: Lighter Points/Tokens | Size: Points Quantity and $ per point.
 
 3. **Deposit Collateral**  
    Both parties deposit funds into the multisig escrow wallet.
