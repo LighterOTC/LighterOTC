@@ -1,7 +1,7 @@
 # LighterOTC White Paper
 
 ## Overview
-**LighterOTC** is a secure and decentralized Over-The-Counter (OTC) escrow platform for buying and selling **Lighter Points**. Built with trust, and user protection at its core, LighterOTC ensures that OTC trades are executed safely and efficiently.
+**LighterOTC** is a secure Over-The-Counter (OTC) escrow platform for buying and selling **Lighter Points**. Built with trust, and user protection at its core, LighterOTC ensures that OTC trades are executed safely and efficiently.
 
 ## Why LighterOTC?
 
@@ -21,15 +21,19 @@ Fees are applied when placing a bid or ask.
 ## How It Works
 
 1. **Initiate Trade**  
-   Reach out through our Telegram channel and @rijk0x with trade details.
+   Reach out through our Telegram channel and @rijk0x with trade details in the following format:
+   Selling/Buying: XXX
+   Type: Points/Tokens
+   Name: Lighter Points/Tokens
+   Size: Points Quantity and $ per point.
 
-2. **Deposit Collateral**  
+3. **Deposit Collateral**  
    Both parties deposit funds into the multisig escrow wallet.
 
-3. **Verification**  
+4. **Verification**  
    Assets are verified, and terms are confirmed.
 
-4. **TGE**  
+5. **TGE**  
    Shortly after TGE, funds are released securely. If the seller fails to uphold their end of the agreement — such as not transferring points after TGE — the buyer will receive both parties' collateral as compensation.
 
 ## Our Mission
