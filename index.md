@@ -13,8 +13,8 @@ LighterOTC uses a **multisignature wallet** system including:
 This ensures that no single party can access or move funds independently.
 
 ### 💰 Fair & Transparent Fees
-- **1% of collateral from the buyer**
-- **1% of collateral from the seller**
+- **1.5% of collateral from the buyer**
+- **1.5% of collateral from the seller**
 
 Fees are applied when placing a bid or ask.
 
