@@ -15,7 +15,7 @@ This ensures that no single party can access or move funds independently.
 ### 💰 Fair & Transparent Fees
 - **1.5% of collateral from the buyer**
 - **1.5% of collateral from the seller**
-- **Imagine you buy/sell 1000$ Worth of lighter points, 1.5% of collateral is then a 15$ fee**
+- **For example, if you buy or sell $1,000 worth of Lighter Points, the fee would be $15 (1.5% of the collateral)**
 
 Fees are applied when placing a bid or ask.
 
