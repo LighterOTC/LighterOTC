@@ -9,6 +9,7 @@
 LighterOTC uses a **multisignature wallet** system including:
 - **Pasta Capital**
 - **Sigmasquared**
+- **Bobdbldr**
 
 This ensures that no single party can access or move funds independently.
 
