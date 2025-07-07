@@ -46,9 +46,8 @@ Fees are applied when placing a bid or ask.
 - **Telegram**: [@rijk0x](https://t.me/rijk0x)
 - **X (Twitter)**: [https://x.com/Rijk__](https://x.com/Rijk__)
 
-**✍️ Multisig Wallet:**
-  https://arbiscan.io/address/0x67bCF0f0B0FF84352627CD9cf88ec4e21e04c804#tokentxns
-
----
+**✍️ Multisig and Fee Wallet :**
+- **Multisig Wallet:** 0x67bCF0f0B0FF84352627CD9cf88ec4e21e04c804 / https://arbiscan.io/address/0x67bCF0f0B0FF84352627CD9cf88ec4e21e04c804#tokentxns
+- **Fee Wallet:** 0xc88B4228F76Ac9605Bb41aD1Fc8e24A8AC1A1517 / 
 
 *This white paper is a document and may be updated to update on improvements and additional features in the LighterOTC platform.*
