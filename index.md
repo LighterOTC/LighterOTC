@@ -46,7 +46,7 @@ Reach out through our Telegram channel and @rijk0x with trade details in the fol
 
 **Contact of Co-Signers**:
 - **Pasta Capital**: https://x.com/Pasta_Capital
-- **Sigma Squared**: https://x.com/SigmaSquared_/status/1927393476653527291
+- **Sigma Squared**: https://x.com/SigmaSquared_/status/1940455399641305181
 - **Bobdbldr**: https://x.com/0xBobdbldr
 
 ## 💼 Wallets
