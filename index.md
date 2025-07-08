@@ -7,6 +7,7 @@
 
 ### 🔐 Multisig Escrow Security
 LighterOTC uses a **multisignature wallet** system including:
+- **Rijk**
 - **Pasta Capital**
 - **Sigmasquared**
 - **Bobdbldr**
