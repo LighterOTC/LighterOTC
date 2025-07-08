@@ -18,7 +18,7 @@ This ensures that no single party can access or move funds independently.
 - **1.5% of collateral from the seller**
 - **For example, if you buy or sell $1,000 worth of Lighter Points, the fee would be $15 (1.5% of the collateral)**
 
-Fees are applied when placing a bid or ask or requesting to fill a bid or ask. Fees are **non refundable** when: Your bid/ask is filled and you want to cancel your bid/ask. Your fee is also non refundable when trying to manipulate the other buyer or seller and Rijk0x. When you cancel a bid or ask, (that is not filled) you will need to wait 48 hours before placing another bid or ask. 
+Fees are applied when placing a bid or ask or requesting to fill a bid or ask. Fees are **non refundable** when: Your bid/ask is filled and you want to cancel your bid/ask. Your fee is also non refundable when trying to manipulate the other buyer or seller and Rijk0x. When you cancel a bid or ask, (that is not filled) you will need to wait 48 hours before placing another bid or ask. It is allowed to higher your bid, or lower your ask. It is not allowed to lower your bid or higher your ask. If you cannot uphold to these rules the fee is **non refundable**.
 
 ## ⚙️ How It Works
 1. **Initiate Trade**  
